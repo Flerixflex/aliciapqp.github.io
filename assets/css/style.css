@@ -3,7 +3,7 @@ body {
 }
 
 #gatos {
-  background-image: url("../img/gatitos.png");
+  background-color: blue;
   height: auto;
   background-repeat: no-repeat;
   background-size: auto;
